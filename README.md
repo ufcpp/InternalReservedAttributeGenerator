@@ -18,3 +18,8 @@ The InternalReservedAttributeGenerator automatically generates these attributes 
 - SkipLocalsInitAttribute for [localsinit flag](https://github.com/dotnet/csharplang/blob/main/proposals/csharp-9.0/skip-localsinit.md)
 - Attributes for [null-state static analysis](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/nullable-analysis)
 
+## NuGet
+
+[![NuGet](https://img.shields.io/nuget/v/
+InternalReservedAttributeGenerator?style=flat-square)](https://www.nuget.org/packages/
+InternalReservedAttributeGenerator)
