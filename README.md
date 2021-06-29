@@ -20,6 +20,4 @@ The InternalReservedAttributeGenerator automatically generates these attributes 
 
 ## NuGet
 
-[![NuGet](https://img.shields.io/nuget/v/
-InternalReservedAttributeGenerator?style=flat-square)](https://www.nuget.org/packages/
-InternalReservedAttributeGenerator)
+[![NuGet](https://img.shields.io/nuget/v/InternalReservedAttributeGenerator?style=flat-square)](https://www.nuget.org/packages/InternalReservedAttributeGenerator)
