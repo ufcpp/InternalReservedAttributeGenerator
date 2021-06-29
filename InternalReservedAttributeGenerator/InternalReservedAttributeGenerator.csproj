@@ -24,7 +24,7 @@
 
   <Target Name="_AddAnalyzersToOutput">
     <ItemGroup>
-      <TfmSpecificPackageFile Include="$(OutputPath)\StringLiteralGenerator.dll" PackagePath="analyzers/dotnet/cs" />
+      <TfmSpecificPackageFile Include="$(OutputPath)\InternalReservedAttributeGenerator.dll" PackagePath="analyzers/dotnet/cs" />
     </ItemGroup>
   </Target>
 
